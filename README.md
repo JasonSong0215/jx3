@@ -10,8 +10,8 @@ js
 vue  
 vue-element-admin  
 
-##关键文件目录
-###backend 
+## 关键文件目录
+### backend 
 Judge 技能伤害判定  
 jx3 技能封装和输出循环模拟  
 pwd 自用密码簿  
