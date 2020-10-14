@@ -1,5 +1,6 @@
 # jx3
 # 剑网三衍天宗PVE计算器
+# 个人制作维护的小项目
 -backend 后端
   -- 编程语言python3.7 
   -- 框架 django
