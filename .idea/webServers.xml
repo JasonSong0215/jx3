@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b7ff1bc-3853-44f6-aaaa-db9d1ad94623" name="jx3" url="http://101.133.169.18">
+        <fileTransfer host="101.133.169.18" port="22" rootFolder="/www/jx3" accessType="SFTP" password="dff9dff2dfe9df93df9fdf9adf98df9bdf9fdfd9dfd2dfc9" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
