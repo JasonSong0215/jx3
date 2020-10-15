@@ -17,3 +17,10 @@ jx3 技能封装和输出循环模拟
 pwd 自用密码簿  
 Skill 技能基础信息  
 
+## 部署项目
+### frontend 
+进入frontend 目录
+npm install
+npm install --registry=https://registry.npm.taobao.org
+本地开发 启动项目 npm run dev
+打包项目 npm run build:prod
